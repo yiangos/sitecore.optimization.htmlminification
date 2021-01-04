@@ -7,9 +7,9 @@ using System;
 using System.IO;
 using System.Text;
 using System.Text.RegularExpressions;
-using LinakisDigital.Foundation.Minification.Services;
+using Yiangos.Foundation.Minification.Services;
 
-namespace LinakisDigital.Foundation.Minification.Pipelines.Response.RenderRendering
+namespace Yiangos.Foundation.Minification.Pipelines.Response.RenderRendering
 {
     public class ExecuteRenderer: Sitecore.Mvc.Pipelines.Response.RenderRendering.ExecuteRenderer
     {

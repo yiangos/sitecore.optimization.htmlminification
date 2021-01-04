@@ -1,6 +1,6 @@
 ﻿using System.Text.RegularExpressions;
 
-namespace LinakisDigital.Foundation.Minification.Services
+namespace Yiangos.Foundation.Minification.Services
 {
     public class MarkupMinifierService : IMarkupMinifierService
     {
